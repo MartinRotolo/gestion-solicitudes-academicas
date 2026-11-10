@@ -1,0 +1,317 @@
+
+=== GESTIÓN DE SOLICITUDES ACADÉMICAS ===
+1. Registrar solicitud
+2. Cambiar estado
+3. Asignar responsable
+4. Buscar / filtrar
+5. Listar todas
+6. Reporte
+0. Salir
+Opción: Legajo: Nombre: Email: Tipo (CERTIFICADO/EQUIVALENCIA/CAMBIO_COMISION/RECLAMO): Prioridad (ALTA/MEDIA/BAJA): Descripción: Solicitud #1 registrada
+
+=== GESTIÓN DE SOLICITUDES ACADÉMICAS ===
+1. Registrar solicitud
+2. Cambiar estado
+3. Asignar responsable
+4. Buscar / filtrar
+5. Listar todas
+6. Reporte
+0. Salir
+Opción: Legajo: Nombre: Email: Tipo (CERTIFICADO/EQUIVALENCIA/CAMBIO_COMISION/RECLAMO): Prioridad (ALTA/MEDIA/BAJA): Descripción: Solicitud #2 registrada
+
+=== GESTIÓN DE SOLICITUDES ACADÉMICAS ===
+1. Registrar solicitud
+2. Cambiar estado
+3. Asignar responsable
+4. Buscar / filtrar
+5. Listar todas
+6. Reporte
+0. Salir
+Opción: Legajo: Nombre: Email: Tipo (CERTIFICADO/EQUIVALENCIA/CAMBIO_COMISION/RECLAMO): Prioridad (ALTA/MEDIA/BAJA): Descripción: Solicitud #3 registrada
+
+=== GESTIÓN DE SOLICITUDES ACADÉMICAS ===
+1. Registrar solicitud
+2. Cambiar estado
+3. Asignar responsable
+4. Buscar / filtrar
+5. Listar todas
+6. Reporte
+0. Salir
+Opción: Legajo: Nombre: Email: Tipo (CERTIFICADO/EQUIVALENCIA/CAMBIO_COMISION/RECLAMO): Prioridad (ALTA/MEDIA/BAJA): Descripción: Solicitud #4 registrada
+
+=== GESTIÓN DE SOLICITUDES ACADÉMICAS ===
+1. Registrar solicitud
+2. Cambiar estado
+3. Asignar responsable
+4. Buscar / filtrar
+5. Listar todas
+6. Reporte
+0. Salir
+Opción: Legajo: Nombre: Email: Tipo (CERTIFICADO/EQUIVALENCIA/CAMBIO_COMISION/RECLAMO): Prioridad (ALTA/MEDIA/BAJA): Descripción: Error: el legajo debe tener 5 o 6 dígitos
+
+=== GESTIÓN DE SOLICITUDES ACADÉMICAS ===
+1. Registrar solicitud
+2. Cambiar estado
+3. Asignar responsable
+4. Buscar / filtrar
+5. Listar todas
+6. Reporte
+0. Salir
+Opción: Legajo: Nombre: Email: Tipo (CERTIFICADO/EQUIVALENCIA/CAMBIO_COMISION/RECLAMO): Prioridad (ALTA/MEDIA/BAJA): Descripción: Error: email inválido
+
+=== GESTIÓN DE SOLICITUDES ACADÉMICAS ===
+1. Registrar solicitud
+2. Cambiar estado
+3. Asignar responsable
+4. Buscar / filtrar
+5. Listar todas
+6. Reporte
+0. Salir
+Opción: Legajo: Nombre: Email: Tipo (CERTIFICADO/EQUIVALENCIA/CAMBIO_COMISION/RECLAMO): Prioridad (ALTA/MEDIA/BAJA): Descripción: Error: tipo de solicitud inválido
+
+=== GESTIÓN DE SOLICITUDES ACADÉMICAS ===
+1. Registrar solicitud
+2. Cambiar estado
+3. Asignar responsable
+4. Buscar / filtrar
+5. Listar todas
+6. Reporte
+0. Salir
+Opción: Legajo: Nombre: Email: Tipo (CERTIFICADO/EQUIVALENCIA/CAMBIO_COMISION/RECLAMO): Prioridad (ALTA/MEDIA/BAJA): Descripción: Error: prioridad inválida
+
+=== GESTIÓN DE SOLICITUDES ACADÉMICAS ===
+1. Registrar solicitud
+2. Cambiar estado
+3. Asignar responsable
+4. Buscar / filtrar
+5. Listar todas
+6. Reporte
+0. Salir
+Opción: Legajo: Nombre: Email: Tipo (CERTIFICADO/EQUIVALENCIA/CAMBIO_COMISION/RECLAMO): Prioridad (ALTA/MEDIA/BAJA): Descripción: Error: la descripción debe tener al menos 10 caracteres
+
+=== GESTIÓN DE SOLICITUDES ACADÉMICAS ===
+1. Registrar solicitud
+2. Cambiar estado
+3. Asignar responsable
+4. Buscar / filtrar
+5. Listar todas
+6. Reporte
+0. Salir
+Opción: Número de solicitud: Nuevo estado (PENDIENTE/EN_PROCESO/RESUELTA/RECHAZADA): Error: la solicitud debe tener un responsable asignado
+
+=== GESTIÓN DE SOLICITUDES ACADÉMICAS ===
+1. Registrar solicitud
+2. Cambiar estado
+3. Asignar responsable
+4. Buscar / filtrar
+5. Listar todas
+6. Reporte
+0. Salir
+Opción: Número de solicitud: Responsable: Área: Solicitud #1 asignada a Carla Méndez (ALUMNOS)
+
+=== GESTIÓN DE SOLICITUDES ACADÉMICAS ===
+1. Registrar solicitud
+2. Cambiar estado
+3. Asignar responsable
+4. Buscar / filtrar
+5. Listar todas
+6. Reporte
+0. Salir
+Opción: Número de solicitud: Nuevo estado (PENDIENTE/EN_PROCESO/RESUELTA/RECHAZADA): Solicitud #1: PENDIENTE -> EN_PROCESO
+
+=== GESTIÓN DE SOLICITUDES ACADÉMICAS ===
+1. Registrar solicitud
+2. Cambiar estado
+3. Asignar responsable
+4. Buscar / filtrar
+5. Listar todas
+6. Reporte
+0. Salir
+Opción: Número de solicitud: Nuevo estado (PENDIENTE/EN_PROCESO/RESUELTA/RECHAZADA): Solicitud #1: EN_PROCESO -> RESUELTA
+
+=== GESTIÓN DE SOLICITUDES ACADÉMICAS ===
+1. Registrar solicitud
+2. Cambiar estado
+3. Asignar responsable
+4. Buscar / filtrar
+5. Listar todas
+6. Reporte
+0. Salir
+Opción: Número de solicitud: Nuevo estado (PENDIENTE/EN_PROCESO/RESUELTA/RECHAZADA): Error: no se puede pasar de RESUELTA a PENDIENTE
+
+=== GESTIÓN DE SOLICITUDES ACADÉMICAS ===
+1. Registrar solicitud
+2. Cambiar estado
+3. Asignar responsable
+4. Buscar / filtrar
+5. Listar todas
+6. Reporte
+0. Salir
+Opción: Número de solicitud: Responsable: Área: Error: no se puede asignar responsable a una solicitud cerrada
+
+=== GESTIÓN DE SOLICITUDES ACADÉMICAS ===
+1. Registrar solicitud
+2. Cambiar estado
+3. Asignar responsable
+4. Buscar / filtrar
+5. Listar todas
+6. Reporte
+0. Salir
+Opción: Número de solicitud: Responsable: Área: Solicitud #2 asignada a Pablo Sosa (BEDELIA)
+
+=== GESTIÓN DE SOLICITUDES ACADÉMICAS ===
+1. Registrar solicitud
+2. Cambiar estado
+3. Asignar responsable
+4. Buscar / filtrar
+5. Listar todas
+6. Reporte
+0. Salir
+Opción: Número de solicitud: Nuevo estado (PENDIENTE/EN_PROCESO/RESUELTA/RECHAZADA): Solicitud #2: PENDIENTE -> EN_PROCESO
+
+=== GESTIÓN DE SOLICITUDES ACADÉMICAS ===
+1. Registrar solicitud
+2. Cambiar estado
+3. Asignar responsable
+4. Buscar / filtrar
+5. Listar todas
+6. Reporte
+0. Salir
+Opción: Número de solicitud: Nuevo estado (PENDIENTE/EN_PROCESO/RESUELTA/RECHAZADA): Solicitud #3: PENDIENTE -> RECHAZADA
+
+=== GESTIÓN DE SOLICITUDES ACADÉMICAS ===
+1. Registrar solicitud
+2. Cambiar estado
+3. Asignar responsable
+4. Buscar / filtrar
+5. Listar todas
+6. Reporte
+0. Salir
+Opción: Número de solicitud: Nuevo estado (PENDIENTE/EN_PROCESO/RESUELTA/RECHAZADA): Error: no existe la solicitud #99
+
+=== GESTIÓN DE SOLICITUDES ACADÉMICAS ===
+1. Registrar solicitud
+2. Cambiar estado
+3. Asignar responsable
+4. Buscar / filtrar
+5. Listar todas
+6. Reporte
+0. Salir
+Opción: Número de solicitud: Error: el número de solicitud debe ser numérico
+
+=== GESTIÓN DE SOLICITUDES ACADÉMICAS ===
+1. Registrar solicitud
+2. Cambiar estado
+3. Asignar responsable
+4. Buscar / filtrar
+5. Listar todas
+6. Reporte
+0. Salir
+Opción: Número de solicitud: Responsable: Área: Solicitud #4 asignada a Carla Méndez (ALUMNOS)
+
+=== GESTIÓN DE SOLICITUDES ACADÉMICAS ===
+1. Registrar solicitud
+2. Cambiar estado
+3. Asignar responsable
+4. Buscar / filtrar
+5. Listar todas
+6. Reporte
+0. Salir
+Opción: Número de solicitud: Nuevo estado (PENDIENTE/EN_PROCESO/RESUELTA/RECHAZADA): Error: estado inválido
+
+=== GESTIÓN DE SOLICITUDES ACADÉMICAS ===
+1. Registrar solicitud
+2. Cambiar estado
+3. Asignar responsable
+4. Buscar / filtrar
+5. Listar todas
+6. Reporte
+0. Salir
+Opción: Tipo (vacío = todos): Estado (vacío = todos): Prioridad (vacío = todas): Resultados: 1
+#4 [ALTA] RECLAMO - PENDIENTE - 100650 Joaquín Molina - Resp: Carla Méndez - ALUMNOS
+
+=== GESTIÓN DE SOLICITUDES ACADÉMICAS ===
+1. Registrar solicitud
+2. Cambiar estado
+3. Asignar responsable
+4. Buscar / filtrar
+5. Listar todas
+6. Reporte
+0. Salir
+Opción: Tipo (vacío = todos): Estado (vacío = todos): Prioridad (vacío = todas): Resultados: 1
+#2 [MEDIA] EQUIVALENCIA - EN_PROCESO - 100912 Tomás Herrera - Resp: Pablo Sosa - BEDELIA
+
+=== GESTIÓN DE SOLICITUDES ACADÉMICAS ===
+1. Registrar solicitud
+2. Cambiar estado
+3. Asignar responsable
+4. Buscar / filtrar
+5. Listar todas
+6. Reporte
+0. Salir
+Opción: Tipo (vacío = todos): Estado (vacío = todos): Prioridad (vacío = todas): Resultados: 2
+#1 [ALTA] CERTIFICADO - RESUELTA - 100783 Lucía Fernández - Resp: Carla Méndez - ALUMNOS
+#4 [ALTA] RECLAMO - PENDIENTE - 100650 Joaquín Molina - Resp: Carla Méndez - ALUMNOS
+
+=== GESTIÓN DE SOLICITUDES ACADÉMICAS ===
+1. Registrar solicitud
+2. Cambiar estado
+3. Asignar responsable
+4. Buscar / filtrar
+5. Listar todas
+6. Reporte
+0. Salir
+Opción: Total de solicitudes: 4
+#1 [ALTA] CERTIFICADO - RESUELTA - 100783 Lucía Fernández - Resp: Carla Méndez - ALUMNOS
+#2 [MEDIA] EQUIVALENCIA - EN_PROCESO - 100912 Tomás Herrera - Resp: Pablo Sosa - BEDELIA
+#3 [BAJA] CAMBIO_COMISION - RECHAZADA - 101045 Valentina Ruiz - Resp: (sin asignar)
+#4 [ALTA] RECLAMO - PENDIENTE - 100650 Joaquín Molina - Resp: Carla Méndez - ALUMNOS
+
+=== GESTIÓN DE SOLICITUDES ACADÉMICAS ===
+1. Registrar solicitud
+2. Cambiar estado
+3. Asignar responsable
+4. Buscar / filtrar
+5. Listar todas
+6. Reporte
+0. Salir
+Opción: ===== REPORTE DE SOLICITUDES =====
+Total: 4
+Por estado:
+  PENDIENTE: 1
+  EN_PROCESO: 1
+  RESUELTA: 1
+  RECHAZADA: 1
+Por prioridad:
+  ALTA: 2
+  MEDIA: 1
+  BAJA: 1
+Por tipo:
+  CERTIFICADO: 1
+  EQUIVALENCIA: 1
+  CAMBIO_COMISION: 1
+  RECLAMO: 1
+Urgentes (prioridad ALTA sin cerrar): 1
+  #4 RECLAMO - Joaquín Molina - PENDIENTE
+Sin responsable asignado: 1
+==================================
+
+=== GESTIÓN DE SOLICITUDES ACADÉMICAS ===
+1. Registrar solicitud
+2. Cambiar estado
+3. Asignar responsable
+4. Buscar / filtrar
+5. Listar todas
+6. Reporte
+0. Salir
+Opción: Opción inválida
+
+=== GESTIÓN DE SOLICITUDES ACADÉMICAS ===
+1. Registrar solicitud
+2. Cambiar estado
+3. Asignar responsable
+4. Buscar / filtrar
+5. Listar todas
+6. Reporte
+0. Salir
+Opción: Hasta luego

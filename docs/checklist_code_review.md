@@ -1,6 +1,6 @@
 # Code review – versión refactorizada (tag `etapa-docs`)
 
-Revisión aplicada sobre el código del tag `etapa-docs`. Las correcciones se integran en el tag `estado-refactorizado`.
+Revisión aplicada sobre el código del tag `etapa-docs`, antes del cierre en `estado-refactorizado`.
 
 ## Checklist técnico
 
@@ -23,9 +23,9 @@ Revisión aplicada sobre el código del tag `etapa-docs`. Las correcciones se in
 
 | ID | Observación | Feedback | Acción | Estado |
 |---|---|---|---|---|
-| CR-1 | `Valores.convertir` captura `NullPointerException` | Capturar NPE oculta errores de programación. Se sugiere validar el `null` en forma explícita | Se agregó la validación y se quitó la captura | Abierta |
-| CR-2 | En `ConsolaApp.procesarOpcion` cada `case` está en una sola línea con su `break` | Rompe el estilo del resto del proyecto y dificulta la lectura | Se reformateó un `case` por bloque | Abierta |
-| CR-3 | `CsvSolicitudRepository` no tiene pruebas propias | La carga del archivo solo se prueba indirectamente | Se agregó `CsvSolicitudRepositoryTest` | Abierta |
+| CR-1 | `Valores.convertir` captura `NullPointerException` | Capturar NPE oculta errores de programación. Se sugiere validar el `null` en forma explícita | Se agregó la validación y se quitó la captura | Corregido |
+| CR-2 | En `ConsolaApp.procesarOpcion` cada `case` está en una sola línea con su `break` | Rompe el estilo del resto del proyecto y dificulta la lectura | Se reformateó un `case` por bloque | Corregido |
+| CR-3 | `CsvSolicitudRepository` no tiene pruebas propias | La carga del archivo solo se prueba indirectamente | Se agregó `CsvSolicitudRepositoryTest` | Corregido |
 | CR-4 | Si una descripción contiene `;` el registro del CSV queda corrupto | El problema ya existía en la versión inicial; corregirlo cambia el comportamiento externo | Se registra como mejora futura | Pendiente |
 | CR-5 | Cada guardado reescribe el archivo completo | Aceptable para el volumen de una sede; no escala a miles de solicitudes | Se registra como mejora futura | Pendiente |
 
@@ -36,9 +36,9 @@ Aspectos positivos: la separación por paquetes es clara, las reglas de negocio 
 | Criterio | Cumple |
 |---|---|
 | El código compila sin errores | Sí |
-| Todas las pruebas pasan (`mvn test`) | Sí, 20 pruebas |
+| Todas las pruebas pasan (`mvn test`) | Sí, 22 pruebas |
 | La salida y el CSV coinciden con la versión inicial | Sí |
 | Se respetan SRP y DIP | Sí |
-| No hay `catch` vacíos ni errores silenciados | Parcial (CR-1) |
+| No hay `catch` vacíos ni errores silenciados | Sí |
 | No hay datos personales reales | Sí |
-| Las observaciones de prioridad alta están resueltas | No: CR-1 a CR-3 abiertas |
+| Las observaciones de prioridad alta están resueltas | Sí (CR-1 a CR-3) |

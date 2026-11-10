@@ -6,9 +6,12 @@ final class Valores {
     }
 
     static <E extends Enum<E>> E convertir(Class<E> tipo, String texto, String mensajeError) {
+        if (texto == null) {
+            throw new ReglaNegocioException(mensajeError);
+        }
         try {
             return Enum.valueOf(tipo, normalizar(texto));
-        } catch (IllegalArgumentException | NullPointerException e) {
+        } catch (IllegalArgumentException e) {
             throw new ReglaNegocioException(mensajeError);
         }
     }

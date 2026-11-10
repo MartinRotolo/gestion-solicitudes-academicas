@@ -55,12 +55,24 @@ public class ConsolaApp {
     private boolean procesarOpcion(String opcion) {
         try {
             switch (opcion) {
-                case "1": registrarSolicitud(); break;
-                case "2": cambiarEstado(); break;
-                case "3": asignarResponsable(); break;
-                case "4": buscarSolicitudes(); break;
-                case "5": listarSolicitudes(); break;
-                case "6": mostrarReporte(); break;
+                case "1":
+                    registrarSolicitud();
+                    break;
+                case "2":
+                    cambiarEstado();
+                    break;
+                case "3":
+                    asignarResponsable();
+                    break;
+                case "4":
+                    buscarSolicitudes();
+                    break;
+                case "5":
+                    listarSolicitudes();
+                    break;
+                case "6":
+                    mostrarReporte();
+                    break;
                 case "0":
                     salida.println("Hasta luego");
                     return true;

@@ -1,0 +1,8 @@
+Comparación de la versión refactorizada con la versión inicial
+Escenario: pruebas/escenario_regresion.txt
+
+$ diff salida_estado_refactorizado.txt pruebas/salida_estado_inicial.txt
+(sin diferencias)
+
+$ diff solicitudes.csv pruebas/datos_estado_inicial.csv
+(sin diferencias)
