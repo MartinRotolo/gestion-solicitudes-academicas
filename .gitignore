@@ -1,0 +1,8 @@
+target/
+out/
+out-test/
+*.class
+solicitudes.csv
+.idea/
+*.iml
+.vscode/
