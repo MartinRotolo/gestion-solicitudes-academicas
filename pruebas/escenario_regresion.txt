@@ -1,0 +1,121 @@
+1
+100783
+Lucía Fernández
+lucia.fernandez@alumnos.example.com
+certificado
+alta
+Certificado de alumno regular para la obra social
+1
+100912
+Tomás Herrera
+tomas.herrera@alumnos.example.com
+EQUIVALENCIA
+MEDIA
+Equivalencia de Programación I aprobada en otra facultad
+1
+101045
+Valentina Ruiz
+valentina.ruiz@alumnos.example.com
+CAMBIO_COMISION
+BAJA
+Cambio de la comisión 4 a la comisión 2 por horario laboral
+1
+100650
+Joaquín Molina
+joaquin.molina@alumnos.example.com
+RECLAMO
+ALTA
+Nota del parcial no cargada en el sistema
+1
+12
+Prueba Legajo
+prueba@example.com
+RECLAMO
+ALTA
+Legajo con formato incorrecto
+1
+100700
+Prueba Email
+correo-sin-arroba
+RECLAMO
+ALTA
+Email con formato incorrecto
+1
+100701
+Prueba Tipo
+prueba.tipo@example.com
+BECA
+ALTA
+Tipo de solicitud que no existe
+1
+100702
+Prueba Prioridad
+prueba.prioridad@example.com
+RECLAMO
+URGENTE
+Prioridad que no existe
+1
+100703
+Prueba Descripcion
+prueba.desc@example.com
+RECLAMO
+BAJA
+corta
+2
+1
+EN_PROCESO
+3
+1
+Carla Méndez
+alumnos
+2
+1
+EN_PROCESO
+2
+1
+RESUELTA
+2
+1
+PENDIENTE
+3
+1
+Pablo Sosa
+bedelia
+3
+2
+Pablo Sosa
+bedelia
+2
+2
+en_proceso
+2
+3
+RECHAZADA
+2
+99
+RESUELTA
+2
+abc
+3
+4
+Carla Méndez
+alumnos
+2
+4
+ARCHIVADA
+4
+reclamo
+
+
+4
+
+en_proceso
+
+4
+
+
+alta
+5
+6
+7
+0
